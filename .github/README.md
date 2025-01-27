@@ -30,6 +30,7 @@ http://localhost/track/api.php?waybillNo=8880302187*****
 
 ### Interface do Usuário para testes
 <img src="https://i.imgur.com/2HOePnP.png" alt="Interface" width="600">
+
 1. Acesse a página `index.php` no navegador.
 2. Insira o número de rastreio no campo de texto e clique em "Rastrear".
 3. O sistema exibirá os detalhes do rastreamento ou mensagens de erro apropriadas.
